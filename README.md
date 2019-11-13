@@ -1,2 +1,0 @@
-# mongoTesting
-Created with CodeSandbox
